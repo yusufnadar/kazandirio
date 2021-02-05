@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "723160301378",
+    "project_id": "kazandirio-32997",
+    "storage_bucket": "kazandirio-32997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723160301378:android:cd6840e0c57a924c1ed2db",
+        "android_client_info": {
+          "package_name": "com.kazandirio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723160301378-f90pt3nga3vb74uesecp177f4dfo0008.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kazandirio",
+            "certificate_hash": "d9cc98ea15d9b86fca3af930404648f054542fed"
+          }
+        },
+        {
+          "client_id": "723160301378-9plalr6dcbohgqguko80lr1nuteep383.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ15y4KpARCn8ZwDzKP5cgR_UD-avG83Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723160301378-9plalr6dcbohgqguko80lr1nuteep383.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
